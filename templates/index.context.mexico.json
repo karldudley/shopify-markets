@@ -4,5 +4,16 @@
     "market": "mexico"
   },
   "sections": {
+    "image_banner": {
+      "settings": {
+      },
+      "blocks": {
+        "heading": {
+          "settings": {
+            "heading": "Welcome to our Mexican store"
+          }
+        }
+      }
+    }
   }
 }
